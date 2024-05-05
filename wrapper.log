@@ -1,0 +1,101 @@
+WARN   | wrapper  | 2018/07/27 12:19:58 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+WARN   | wrapper  | 2018/07/27 12:36:21 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/07/27 12:49:17 | JVM did not exit on request, termination requested.
+WARN   | wrapper  | 2018/07/27 12:49:23 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+WARN   | wrapper  | 2018/07/27 12:54:41 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/07/27 13:47:14 | JVM did not exit on request, termination requested.
+FATAL  | wrapper  | 2018/08/01 15:17:03 | Unable to open configuration file: start (No such file or directory)
+FATAL  | wrapper  | 2018/08/01 15:17:03 |   Current working directory: /home/GmsAnalyze/bin
+WARN   | wrapper  | 2018/08/20 17:07:54 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/20 17:07:57 | JVM exited while loading the application.
+ERROR  | wrapper  | 2018/08/20 17:08:03 | JVM exited while loading the application.
+ERROR  | wrapper  | 2018/08/20 17:08:09 | JVM exited while loading the application.
+ERROR  | wrapper  | 2018/08/20 17:08:16 | JVM exited while loading the application.
+ERROR  | wrapper  | 2018/08/20 17:08:22 | JVM exited while loading the application.
+FATAL  | wrapper  | 2018/08/20 17:08:22 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2018/08/20 17:08:22 |   There may be a configuration problem: please check the logs.
+WARN   | wrapper  | 2018/08/20 17:17:03 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/20 17:17:05 | JVM exited while loading the application.
+ERROR  | wrapper  | 2018/08/20 17:17:12 | JVM exited while loading the application.
+ERROR  | wrapper  | 2018/08/20 17:17:18 | JVM exited while loading the application.
+ERROR  | wrapper  | 2018/08/20 17:17:24 | JVM exited while loading the application.
+WARN   | wrapper  | 2018/08/20 17:24:03 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/20 17:32:30 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/20 17:32:30 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/20 17:35:46 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 09:05:59 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 09:05:59 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 09:06:10 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 09:11:42 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 09:11:42 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 09:11:43 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 09:16:37 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 09:16:37 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 09:16:37 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 09:23:48 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 09:23:48 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 09:23:49 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 09:32:32 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 09:32:32 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 09:32:33 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 09:53:54 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 09:53:55 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 09:53:55 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 09:59:13 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 09:59:14 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 09:59:14 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 10:36:22 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 10:36:22 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 10:36:23 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 10:40:20 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 10:40:20 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 10:40:20 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 10:47:39 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 10:47:39 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 10:47:40 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 10:53:16 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 10:53:16 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 10:53:17 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 11:04:48 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 11:04:48 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 11:04:49 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 11:08:59 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 11:08:59 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 11:09:00 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 11:10:50 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 11:10:50 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 11:10:51 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 11:32:34 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 11:32:34 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 11:32:35 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 11:37:09 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 11:37:09 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 11:37:10 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 11:40:50 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 11:40:50 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 11:40:50 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 11:44:12 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 11:44:12 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/21 11:44:13 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/21 14:20:33 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/21 14:20:33 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/23 13:22:13 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/23 13:25:34 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/23 13:25:34 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/23 13:25:35 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/08/23 14:40:47 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/08/23 14:40:47 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/08/23 14:40:48 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+WARN   | wrapper  | 2018/09/06 08:42:15 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+WARN   | wrapper  | 2018/09/06 08:45:07 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/09/06 09:18:41 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/09/06 09:18:41 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/09/06 09:19:37 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/09/06 09:31:04 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/09/06 09:31:05 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/09/11 11:19:53 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/09/11 11:21:04 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/09/11 11:21:05 | JVM did not exit on request, terminated
+WARN   | wrapper  | 2018/09/11 11:21:16 | wrapper.logfile must contain "YYYYMMDD" for a roll mode of DATE.  Disabling log file rolling.
+ERROR  | wrapper  | 2018/09/11 11:32:53 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2018/09/11 11:32:53 | JVM did not exit on request, terminated
